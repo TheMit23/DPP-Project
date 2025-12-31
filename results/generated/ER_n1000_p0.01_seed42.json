@@ -1,0 +1,11 @@
+{
+  "nodes": 1000,
+  "edges": 4985,
+  "avg_clustering": 0.011135467155823192,
+  "avg_path_length_lcc": 3.260036036036036,
+  "degree_min": 2,
+  "degree_max": 20,
+  "degree_avg": 9.97,
+  "connected_components": 1,
+  "largest_component_size": 1000
+}
