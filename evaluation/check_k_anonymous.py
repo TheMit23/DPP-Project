@@ -1,5 +1,4 @@
 from collections import Counter
-import pickle
 import networkx as nx
 
 def is_k_degree_anonymous(G: nx.Graph, k: int) -> bool:
